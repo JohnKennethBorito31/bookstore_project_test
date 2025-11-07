@@ -1,0 +1,17 @@
+{
+  "name": "bookstore-project",
+  "version": "1.0.0",
+  "description": "Bookstore API project for assignment (includes server and client scripts).",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "client-demo": "node client/demo.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "cors": "^2.8.5",
+    "axios": "^1.4.0"
+  }
+}

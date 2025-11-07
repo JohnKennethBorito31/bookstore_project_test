@@ -1,0 +1,22 @@
+[
+  {
+    "username": "alice",
+    "password": "$2a$08$placeholderhashforalice"
+  },
+  {
+    "username": "bob",
+    "password": "$2a$08$placeholderhashforbob"
+  },
+  {
+    "username": "Borito",
+    "password": "$2a$08$K8D5N1rgTkHAf/uJHaXo3.90qrbksEFCHLVfiQPyuqI/0PgO3hvKa"
+  },
+  {
+    "username": "Boris",
+    "password": "$2a$08$wgKDXYefMbwrMuAnbmfffOZJRCheQMBIwV.e90PGUuAgIo8f325.O"
+  },
+  {
+    "username": "Boritotest",
+    "password": "$2a$08$CE1RAr./1bcJ1mATng4jJuR9qyR6ltB6LYaEA/mRvcArbmT5/0F2y"
+  }
+]

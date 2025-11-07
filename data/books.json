@@ -1,0 +1,24 @@
+[
+  {
+    "isbn": "9780143127741",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "reviews": {
+      "alice": "A thought-provoking read."
+    }
+  },
+  {
+    "isbn": "9780307273604",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "reviews": {}
+  },
+  {
+    "isbn": "9780062316097",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "reviews": {
+      "bob": "Simple and inspiring."
+    }
+  }
+]
